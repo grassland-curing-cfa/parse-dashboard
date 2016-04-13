@@ -1,5 +1,16 @@
 {
   "apps": [
-
+    {
+      "serverURL": "https://nemp-act-test.herokuapp.com/parse",
+      "appId": "ejaYlBzhlzArwZr0XBduAfYY0L2q2Zv3Wg66czlt",
+      "masterKey": "citddW5QSgjGxE5bhEJUepOdkOnJoLvya1sxDiiZ",
+      "appName": "nemp-act-test"
+    },
+    {
+      "serverURL": "https://nemp-qld-test.herokuapp.com/parse",
+      "appId": "9vypk2TiwmTwXL3fdKnhCYxiWA4ClIRgdSD8sq39",
+      "masterKey": "BEnixRZoR13UnxxLiR9LjOr2xH2DQhBfxR8joAC7",
+      "appName": "nemp-qld-test"
+    }
   ]
 }
